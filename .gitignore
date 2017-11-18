@@ -1,0 +1,11 @@
+#ignore Backup files
+*.bkp
+#ignore sound files
+*.mp3
+#ignore image files
+*.jpeg
+#ignore php files
+*.php
+#But donot ignore index.php
+!index.php
+
